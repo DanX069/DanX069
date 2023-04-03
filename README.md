@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats:
 
-[![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)](https://github.com/johndoe/github-readme-stats)
+[![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanX069&show_icons=true&theme=radical)](https://github.com/johndoe/github-readme-stats)
 
 ## 🛠️ My Top Skills:
 
