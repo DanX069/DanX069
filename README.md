@@ -1,6 +1,6 @@
 # Hi there, I'm Danish Mehmood but plz call me Dan 👋
 
-## 🌱 I'm a sophomore in the dept. of Computer Science and Engineering at Indian Institute of Technology, Kanpur.
+## 🌱 I'm a sophomore in the Dept. of Computer Science and Engineering at Indian Institute of Technology, Kanpur.
 
 - 📫 How to reach me: [danishm21@iitk.ac.in](mailto:danishm21@iitk.ac.in)
 - 😄 Pronouns: He/Him
