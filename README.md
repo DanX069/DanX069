@@ -1,19 +1,19 @@
-# Hi there, I'm John Doe 👋
+# Hi there, I'm Danish Mehmood but plz call me Dan 👋
 
-## 🌱 I'm a Developer, Tech Enthusiast, and Lifelong Learner!
+## 🌱 I'm a sophomore in the dept. of Computer Science and Engineering at Indian Institute of Technology, Kanpur.
 
 - 🔭 I’m currently working on [My Awesome Project](https://github.com/johndoe/my-awesome-project)
 - 🌱 I’m currently learning [React](https://reactjs.org/) and [Node.js](https://nodejs.org/)
 - 👯 I’m looking to collaborate on [Open Source Projects](https://github.com/topics/open-source)
 - 🤔 I’m looking for help with [My Other Project](https://github.com/johndoe/my-other-project)
 - 💬 Ask me about [Python](https://www.python.org/), [JavaScript](https://www.javascript.com/), or [Django](https://www.djangoproject.com/)
-- 📫 How to reach me: [johndoe@example.com](mailto:johndoe@example.com)
+- 📫 How to reach me: [danishm21@iitk.ac.in](mailto:danishm21@iitk.ac.in)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing guitar and photography.
+- ⚡ Fun fact: I love watching anime and listening to music.
 
 ## 📊 GitHub Stats:
 
-[![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)](https://github.com/johndoe/github-readme-stats)
+[![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)](https://github.com/johndoe/github-readme-stats)
 
 ## 🛠️ My Top Skills:
 
