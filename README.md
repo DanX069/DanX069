@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Stats:
 
-[![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanX069&show_icons=true&theme=radical)](https://github.com/DanX069/github-readme-stats)
+[![Danish's GitHub Stats](dan-x069-59y9gyeaj-danx069.vercel.app)](https://github.com/DanX069/github-readme-stats)
 
 ## 🛠️ My Top Skills:
 
