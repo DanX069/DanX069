@@ -6,7 +6,7 @@ REPO_NAME = os.environ['GITHUB_REPOSITORY']
 GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
 
 def get_stats_card(username):
-    url = f"https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=radical"
+    url = f"https://github-readme-stats.vercel.app/api?username={DanX069}&show_icons=true&theme=radical"
     return f"![{username}'s GitHub stats]({url})"
 
 def update_readme(stats_card):
