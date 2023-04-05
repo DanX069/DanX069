@@ -22,7 +22,14 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_dan_xkx_/)
 [<img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />](https://DanX069.github.io/portfolio/)
 
-
+<!-- [![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanX069)](https://github.com/DanX069/github-readme-stats) -->
+<table style="width:100%">
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=DanX069&show_icons=true&hide_border=true&hide=issues" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX069&layout=compact&langs_count=6" /></th>
+  </tr>
+</table>
+<br>
 
 
 
