@@ -14,7 +14,7 @@
 
 ## 🛠️ My Top Skills:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanX069&layout=compact&theme=radical)](https://github.com/DanX069/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanX06&layout=compact&theme=radical)](https://github.com/DanX069/github-readme-stats)
 
 ## 📫 Connect with me:
 
