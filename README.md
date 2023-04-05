@@ -25,8 +25,8 @@
 <!-- [![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanX069)](https://github.com/DanX069/github-readme-stats) -->
 <table style="width:100%">
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=DanX069&show_icons=true&hide_border=true&hide=issues" /></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX069&layout=compact&langs_count=6" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=DanX069&show_icons=true&theme=radical" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX069&layout=compact&theme=radical&langs_count=6" /></th>
   </tr>
 </table>
 <br>
