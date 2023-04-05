@@ -10,11 +10,11 @@
 
 ## 📊 GitHub Stats:
 
-[![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanX069&show_icons=true&theme=radical)](https://github.com/DanX069/github-readme-stats)
+[![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanX066&show_icons=true&theme=radical)](https://github.com/DanX069/github-readme-stats)
 
 ## 🛠️ My Top Skills:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanX06&layout=compact&theme=radical)](https://github.com/DanX069/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanX069&layout=compact&theme=radical)](https://github.com/DanX069/github-readme-stats)
 
 ## 📫 Connect with me:
 
