@@ -2,9 +2,10 @@
 
 ## 🌱 I'm a sophomore in the Dept. of Computer Science and Engineering at Indian Institute of Technology, Kanpur.
 
-- 📫 How to reach me: [danishm21@iitk.ac.in](mailto:danishm21@iitk.ac.in)
+- 👀 I do the hacker stuff(yeah to normal people coding = hacking).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching anime and listening to music.
+- 📫 How to reach me: [danishm21@iitk.ac.in](mailto:danishm21@iitk.ac.in)
 
 
 
