@@ -22,7 +22,8 @@
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=DanX069&&color=darkorchid&&style=for-the-badge&&label=Profile+Views" align="center" />
+![Profile views](https://img.shields.io/badge/Profile%20Views--blueviolet?style=for-the-badge&logo=radical&colorA=703bd1&colorB=ff69b4)![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=703bd1&style=flat-square&label=)
+
 </div>  
 
 ## 📫 Connect with me:
