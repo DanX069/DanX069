@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=DanX069&&style=flat-square&&label=Profile+Views" align="center" />
+<img src="https://komarev.com/ghpvc/?username=DanX069&&color=00ffff&&style=plastic&&label=Profile+Views" align="center" />
 </div>  
 
 ## 📫 Connect with me:
@@ -32,7 +32,7 @@
 [<img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />](https://DanX069.github.io/portfolio/)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=DanX069&color=blue&style=flat-square&label=Profile+Views)
+
 
 
 
