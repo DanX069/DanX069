@@ -22,7 +22,7 @@
 <br>
 
 
-![Profile views](https://img.shields.io/badge/Profile%20Views--blueviolet?style=for-the-badge&logo=radical&colorA=703bd1&colorB=ff69b4)![Profile views](https://komarev.com/ghpvc/?username=DanX069&color=703bd1&style=flat-square&label=)
+![Profile views](https://img.shields.io/badge/Profile%20Views--blackviolet?style=for-the-badge&logo=radical&colorA=703bd1&colorB=ff69b4)![Profile views](https://komarev.com/ghpvc/?username=DanX069&color=703bd1&style=flat-square&label=Profile)
 
 
 
