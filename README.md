@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=DanX069&color=darkorchid&style=for-the-badge&label=Night+Mode+Views" align="center" />
+<img src="https://komarev.com/ghpvc/?username=DanX069&&color=darkorchid&&style=for-the-badge&&label=Profile+Views" align="center" />
 </div>  
 
 ## 📫 Connect with me:
