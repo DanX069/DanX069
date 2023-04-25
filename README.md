@@ -21,6 +21,10 @@
 </table>
 <br>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=DanX069&&style=flat-square&&label=Profile+Views" align="center" />
+</div>  
+
 ## 📫 Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danish-mehmood-9196a0242)
