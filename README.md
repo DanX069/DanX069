@@ -29,7 +29,7 @@
 [<img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />](https://DanX069.github.io/portfolio/)
 
 
-.
+
 
 
 
