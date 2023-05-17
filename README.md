@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-## My Spotify Activity
+## 🎵 My Spotify Activity:
 
 <details>
  <summary>Listening on the Spotify</summary>
