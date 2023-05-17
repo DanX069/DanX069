@@ -26,7 +26,7 @@
 <details>
  <summary>Listening on the Spotify</summary>
  <div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=owkqjurxtbp6609ahrv25f4m1&cover_image=true&theme=default&show_offline=false&background_color=0d0d0d&interchange=true&bar_color_cover=true">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=owkqjurxtbp6609ahrv25f4m1&unique=true&width=500&count=5">
   </div>
 </details>
 
