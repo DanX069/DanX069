@@ -19,7 +19,6 @@
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX069&layout=compact&theme=radical&langs_count=10" /></th>
   </tr>
 </table>
-<br>
 
 ## My Spotify Activity
 
