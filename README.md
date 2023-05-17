@@ -21,6 +21,15 @@
 </table>
 <br>
 
+## Random
+
+<details>
+ <summary>Listening on the Spotify</summary>
+ <div align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=owkqjurxtbp6609ahrv25f4m1">
+  </div>
+</details>
+
 
 ## 📫 Connect with me:
 
