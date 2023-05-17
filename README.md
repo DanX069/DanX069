@@ -21,6 +21,10 @@
 </table>
 <br>
 
+## My Songs:
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=DanX&redirect_uri=https://github.com/DanX069/spotify-github-profile)
+
 
 ## 📫 Connect with me:
 
