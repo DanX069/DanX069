@@ -11,6 +11,7 @@
 
 
 ## 📊 My Stats:
+
 <details>
   <summary>Dan's GitHub Stats</summary>
 <!-- [![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanX069)](https://github.com/DanX069/github-readme-stats) -->
@@ -21,20 +22,31 @@
   </tr>
 </table>
   </details>
+  
 <br>
+
+
 ## 📈 My GitHub Activity:
+
 <details>
   <summary>Dan's GitHub Activity</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DanX069&theme=tokyo-night" /></a>
 </details>
-## 🎵 My Spotify Activity:
+
 <br>
+
+
+## 🎵 My Spotify Activity:
+
 <details>
  <summary>Dan's Spotify Activity</summary>
  <div align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=owkqjurxtbp6609ahrv25f4m1&unique=true&width=500&count=5">
   </div>
 </details>
+
+<br>
+
 
 ## 📫 Connect with me:
 
