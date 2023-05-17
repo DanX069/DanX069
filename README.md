@@ -20,6 +20,10 @@
   </tr>
 </table>
 
+## 📈 My GitHub Activity:
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DanX069&theme=tokyo-night" /></a>
+
 ## 🎵 My Spotify Activity:
 
 <details>
