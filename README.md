@@ -30,7 +30,7 @@
 
 <details>
   <summary>Dan's GitHub Activity</summary>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DanX069&theme=tokyo-night" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=bangaradi&theme=tokyo-night" /></a>
 </details>
 
 
