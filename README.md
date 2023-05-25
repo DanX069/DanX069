@@ -30,7 +30,7 @@
 
 <details>
   <summary>Dan's GitHub Activity</summary>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DanX069&theme=tokyo-night" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DanX069&theme=chartreuse-dark&custom_title=Dan's%20contribution%20graph&hide_border=true" /></a>
 </details>
 
 
