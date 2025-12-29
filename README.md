@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Danish Mehmood but plz call me Dan :)
+# Hi there 👋, I'm Danish Mehmood but please call me Dan :)
 
 ## 🌱 I'm a senior undergrad in the Dept. of Computer Science and Engineering at Indian Institute of Technology, Kanpur.
 
