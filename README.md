@@ -14,14 +14,20 @@
 
 <details>
   <summary>Dan's GitHub Stats</summary>
-<!-- [![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanX069)](https://github.com/DanX069/github-readme-stats) -->
-<table style="width:100%">
-  <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=DanX069&show_icons=true&theme=chartreuse-dark&count_private=true" /></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX069&size_weight=0.5&count_weight=0.5&layout=compact&theme=chartreuse-dark&langs_count=10" /></th>
-  </tr>
-</table>
-  </details>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=DanX069&show_icons=true&theme=chartreuse-dark&count_private=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX069&layout=compact&theme=chartreuse-dark&langs_count=10" />
+      </td>
+    </tr>
+  </table>
+
+</details>
+
   
 
 
