@@ -58,7 +58,7 @@
 <!--profile visit count-->
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=DanX069&label=Profile%20views&color=7ffe00&style=flat" alt="DanX069" />
+  <img src="https://komarev.com/ghpvc/?username=DanX069&label=Profile%20views&color=7ffe00&style=flat&abbreviated=true&base=1000" alt="DanX069" />
   
 </div>
 
