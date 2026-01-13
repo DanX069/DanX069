@@ -52,7 +52,7 @@
 ## 📫 Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" />](https://www.linkedin.com/in/danish-mehmood-9196a0242)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]([https://www.instagram.com/_dan_xkx_/](https://www.instagram.com/_dan_xkx_/))
+[<img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" />]([https://www.instagram.com/ft.dan__/](https://www.instagram.com/ft.dan__/))
 [<img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />](https://danx069.github.io/portfolio/)
 
 <!--profile visit count-->
