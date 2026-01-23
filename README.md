@@ -68,7 +68,7 @@
   </a>
 
   <a href="https://danx069.github.io/portfolio/">
-    <img alt="Portfolio" height="32" style="vertical-align: middle;" 
+    <img alt="Portfolio" height="40" style="vertical-align: middle;" 
       src="https://www.logo.wine/a/logo/Internet_Explorer/Internet_Explorer-Logo.wine.svg" />
   </a>
 </p>
