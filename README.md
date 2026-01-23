@@ -16,12 +16,17 @@
   <summary>Dan's GitHub Stats</summary>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DanX069&show_icons=true&theme=chartreuse-dark&count_private=true" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX069&layout=compact&theme=chartreuse-dark&langs_count=10" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=DanX069&show_icons=true&theme=chartreuse-dark&count_private=true"
+      height="180"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX069&layout=compact&theme=chartreuse-dark&langs_count=10"
+      height="180"
+    />
   </p>
-
 </details>
+
 
   
 
