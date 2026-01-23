@@ -59,22 +59,23 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/danish-mehmood-9196a0242">
     <img alt="LinkedIn" height="36"
-      style="display:inline-block; vertical-align:middle; margin-right:18px;"
+      style="display:inline-block; vertical-align:middle; margin-right:40px;"
       src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" />
   </a>
 
   <a href="https://www.instagram.com/ft.dan__/">
     <img alt="Instagram" height="36"
-      style="display:inline-block; vertical-align:middle; margin-right:30px;"
+      style="display:inline-block; vertical-align:middle; margin-right:40px;"
       src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" />
   </a>
 
   <a href="https://danx069.github.io/portfolio/">
     <img alt="Portfolio" height="50"
-      style="display:inline-block; vertical-align:middle;"
+      style="display:inline-block; vertical-align:middle; margin-top:4px;"
       src="https://www.logo.wine/a/logo/Internet_Explorer/Internet_Explorer-Logo.wine.svg" />
   </a>
 </p>
+
 
 
 <!--profile visit count-->
