@@ -65,12 +65,12 @@
 
   <a href="https://www.instagram.com/ft.dan__/">
     <img alt="Instagram" height="36"
-      style="display:inline-block; vertical-align:middle; margin-right:18px;"
+      style="display:inline-block; vertical-align:middle; margin-right:30px;"
       src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" />
   </a>
 
   <a href="https://danx069.github.io/portfolio/">
-    <img alt="Portfolio" height="42"
+    <img alt="Portfolio" height="50"
       style="display:inline-block; vertical-align:middle;"
       src="https://www.logo.wine/a/logo/Internet_Explorer/Internet_Explorer-Logo.wine.svg" />
   </a>
